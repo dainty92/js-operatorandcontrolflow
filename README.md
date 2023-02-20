@@ -4,7 +4,7 @@ Arithmetic Operators -> addition(+), subtraction(-), multiplication(*), exponent
 
 Assignment Operators -> =
 
-Comparison Operators -> equals(==), identical(===), not equal(!=), not identical(!==), less than(<), less than or equal to(<=), graeter than(>), greater than or equal to(>=)
+Comparison Operators -> equals(==), identical(===), not equal(!=), not identical(!==), less than(<), less than or equal to(<=), greater than(>), greater than or equal to(>=)
 
 Logical Operators -> AND(&&), OR(||), NOT(!)
 
