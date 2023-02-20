@@ -12,29 +12,29 @@ Bitwise Operators -> bitwise AND(&), bitwise OR(|), bitwise XOR(^), bitwise NOT(
 
 
 ## Question2
-Arithmetic Operators -> + console.log(100 % 45); <!--- modulus --->
+Arithmetic Operators -> - console.log(100 % 45); <!--- modulus --->
 
-                        + console.log(50 * 2); <!--- multiplication ---> 
+                        * console.log(50 * 2); <!--- multiplication ---> 
 
-Assignment Operators -> + let a = 5; <!--- assignment --->
+Assignment Operators -> - let a = 5; <!--- assignment --->
 
-                        + let b = 11; <!--- multiplication assignment --->
-                        b *= 2; 
-                        console.log(b);
+                        * let b = 11; <!--- multiplication assignment --->
+                          b *= 2; 
+                          console.log(b);
 
-Comparison Operators -> + console.log(20 > 10); <!--- greater than --->
+Comparison Operators -> - console.log(20 > 10); <!--- greater than --->
 
-                        + console.log(10 === 10); <!--- identical --->
+                        * console.log(10 === 10); <!--- identical --->
 
-Logical Operators -> + console.log(true && true); <!--- AND --->
+Logical Operators -> - console.log(true && true); <!--- AND --->
 
-                     + console.log(!false); <!--- NOT --->
+                     * console.log(!false); <!--- NOT --->
 
-Bitwise Operators -> + let x = 50; <!--- bitwise AND --->
+Bitwise Operators -> - let x = 50; <!--- bitwise AND --->
                        let y = 10;
                        console.log(x & y); 
                      
-                     + let a = 30; <!--- bitwise OR --->
+                     * let a = 30; <!--- bitwise OR --->
                        let b = 6; 
                        console.log(a | b); 
 
