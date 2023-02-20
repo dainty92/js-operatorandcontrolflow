@@ -1,6 +1,5 @@
-<!-- Question 1 -->
+## Question1
 
-Question1: 
 Arithmetic Operators -> addition(+), subtraction(-), multiplication(*), exponentiation(**), division(/), modulus(%), increment(++), decrement (--)
 
 Assignment Operators -> =
@@ -12,34 +11,35 @@ Logical Operators -> AND(&&), OR(||), NOT(!)
 Bitwise Operators -> bitwise AND(&), bitwise OR(|), bitwise XOR(^), bitwise NOT(~), left shift(<<), right shift(>>)
 
 
-<!--- Question 2 --->
+## Question2
+Arithmetic Operators -> + console.log(100 % 45); <!--- modulus --->
 
-Question2
-Arithmetic Operators -> console.log(100 % 45); <!--- modulus --->
-                        console.log(50 * 2); <!--- multiplication ---> 
+                        + console.log(50 * 2); <!--- multiplication ---> 
 
-Assignment Operators -> let a = 5; <!--- assignment --->
-                        let b = 11; <!--- multiplication assignment --->
+Assignment Operators -> + let a = 5; <!--- assignment --->
+
+                        + let b = 11; <!--- multiplication assignment --->
                         b *= 2; 
                         console.log(b);
 
-Comparison Operators -> console.log(20 > 10); <!--- greater than --->
-                        console.log(10 === 10); <!--- identical --->
+Comparison Operators -> + console.log(20 > 10); <!--- greater than --->
 
-Logical Operators -> console.log(true && true); <!--- AND --->
-                     console.log(!false); <!--- NOT --->
+                        + console.log(10 === 10); <!--- identical --->
 
-Bitwise Operators -> let x = 50; <!--- bitwise AND --->
-                     let y = 10;
-                     console.log(x & y); 
-                     let a = 30; <!--- bitwise OR --->
-                     let b = 6; 
-                     console.log(a | b); 
+Logical Operators -> + console.log(true && true); <!--- AND --->
+
+                     + console.log(!false); <!--- NOT --->
+
+Bitwise Operators -> + let x = 50; <!--- bitwise AND --->
+                       let y = 10;
+                       console.log(x & y); 
+                     
+                     + let a = 30; <!--- bitwise OR --->
+                       let b = 6; 
+                       console.log(a | b); 
 
 
-<!--- Question 4 --->
-
-Question4
+## Question4
 The result of i is 1, 8, 15
 
                     
