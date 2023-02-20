@@ -1,5 +1,6 @@
-<!--- Question 1 --->
+<!-- Question 1 -->
 
+Question1: 
 Arithmetic Operators -> addition(+), subtraction(-), multiplication(*), exponentiation(**), division(/), modulus(%), increment(++), decrement (--)
 
 Assignment Operators -> =
@@ -13,6 +14,7 @@ Bitwise Operators -> bitwise AND(&), bitwise OR(|), bitwise XOR(^), bitwise NOT(
 
 <!--- Question 2 --->
 
+Question2
 Arithmetic Operators -> console.log(100 % 45); <!--- modulus --->
                         console.log(50 * 2); <!--- multiplication ---> 
 
@@ -37,6 +39,7 @@ Bitwise Operators -> let x = 50; <!--- bitwise AND --->
 
 <!--- Question 4 --->
 
+Question4
 The result of i is 1, 8, 15
 
                     
