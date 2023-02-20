@@ -1,4 +1,5 @@
 <!--- Question 1 --->
+
 Arithmetic Operators -> addition(+), subtraction(-), multiplication(*), exponentiation(**), division(/), modulus(%), increment(++), decrement (--)
 
 Assignment Operators -> =
@@ -9,7 +10,9 @@ Logical Operators -> AND(&&), OR(||), NOT(!)
 
 Bitwise Operators -> bitwise AND(&), bitwise OR(|), bitwise XOR(^), bitwise NOT(~), left shift(<<), right shift(>>)
 
+
 <!--- Question 2 --->
+
 Arithmetic Operators -> console.log(100 % 45); <!--- modulus --->
                         console.log(50 * 2); <!--- multiplication ---> 
 
@@ -31,7 +34,9 @@ Bitwise Operators -> let x = 50; <!--- bitwise AND --->
                      let b = 6; 
                      console.log(a | b); 
 
+
 <!--- Question 4 --->
+
 The result of i is 1, 8, 15
 
                     
