@@ -1,14 +1,15 @@
 // Question 3
 
-const science = ['Physics', 'Chemistry', 'Biology', 'Technical Drawing']
-const socialScience = ['Accounting', 'Commerce', 'Marketing', 'Geography']
-const arts = ['Government', 'Economics', 'Literature', 'History']
-const general = ['English', 'Mathematics']
+let classGroup = "Arts"; // Replace "Arts" with the desired class group
 
-if (Bolatito = arts) {
-    console.log(arts + "," + general);
+if (classGroup === "Science") {
+  console.log("Bolatito's subjects are: Physics, Chemistry, Biology, Technical Drawing, English, Mathematics");
+} else if (classGroup === "Social Science") {
+  console.log("Bolatito's subjects are: Accounting, Commerce, Marketing, Geography, English, Mathematics");
+} else if (classGroup === "Arts") {
+  console.log("Bolatito's subjects are: Government, Economics, Literature, History, English, Mathematics");
 } else {
-    console.log(general);
+  console.log("Invalid class group. Bolatito's subjects are: English, Mathematics");
 }
 
 
@@ -25,4 +26,4 @@ if ((num - pwr/2) < pwr/2) {
   pwr /= 2;
 }
 
-console.log('The number ${pwr} is the power of 2 nearest to ${num}.');
+console.log('The number ' + pwr + ' is the power of 2 nearest to ' + num + '.');
